@@ -1,4 +1,4 @@
-# [Capstone Engagement](Capstone_Engangement/Capstone_Engagement_Project.pdf)
+# [Capstone Engagement](https://github.com/asutherlin/Capstone_Engagement/blob/d7fca9e48e48ab99015988869073ae2f447afd68/Capstone_Engagement_Project.pdf)
 Assessment, Analysis,  and Hardening of a Vulnerable System
 
 ## Red vs. Blue project
