@@ -27,7 +27,7 @@ Using Kibana, extract logs for hard data and visualizations. Provide mitigations
     - Metricbeat
       - Installed, but not utilized for this project.
 
-### Possible Recommended Mitigations Discussed:
+### Recommended Mitigations Discussed:
   - Blocking the Port Scan
   - Finding the Request for the Hidden Directory
   - Preventing Brute Force Attacks
